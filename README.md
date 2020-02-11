@@ -38,7 +38,7 @@ https://github.com/numworks/epsilon/tree/master/python/port
 CircuitPython - TI (called TI-Python)  
 https://blog.adafruit.com/2019/01/28/ti-planet-ti-python-import-sys-reveals-adafruit-circuitpython-on-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/
 
-Pycopy
+Pycopy  
 https://github.com/pfalcon/pycopy  
 http://www.pagema.net/micropython-fork-wars.html  
 https://www.blog.pythonlibrary.org/2020/02/10/pydev-of-the-week-paul-sokolovsky/
