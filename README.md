@@ -1,6 +1,6 @@
 ## The many forks of MicroPython
 
-[![MicroPython forks](../assets/micropython.jpg)](https://github.com/adafruit/awesome-micropythons)
+[![MicroPython forks](./assets/micropython.jpg)](https://github.com/adafruit/awesome-micropythons)
 
 The start of a community made list of MicroPython forks, please do issue/PRs or email me to get edits here: pt@adafruit.com  
 * * *
