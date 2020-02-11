@@ -5,13 +5,13 @@
 The start of a community made list of MicroPython forks, please do issue/PRs or email me to get edits here: pt@adafruit.com  
 * * *
 
-MicroPython - micro:bit  
-https://github.com/bbcmicrobit/micropython
-
 MicroPython  
 http://micropython.org/  
 https://github.com/micropython/micropython  
 https://github.com/micropython/micropython/network <- sorta works, 100 most recently pushed forks.
+
+MicroPython - micro:bit  
+https://github.com/bbcmicrobit/micropython
 
 CircuitPython  
 https://circuitpython.org/  
