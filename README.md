@@ -1,3 +1,5 @@
+The start of a community made list of MicroPython forks, please do issue/PRs or email me to get edits here: pt@adafruit.com  
+
 MicroPython - micro:bit  
 https://github.com/bbcmicrobit/micropython
 
