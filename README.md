@@ -41,6 +41,9 @@ https://www.blog.pythonlibrary.org/2020/02/10/pydev-of-the-week-paul-sokolovsky/
 MicroPython - Microsemi, RISC-V (RV32 and RV64) architecture  
 https://content.riscv.org/wp-content/uploads/2017/12/RISC-V-Poster-Preview.pdf
 
+MaixPy - Sipeed  
+https://github.com/sipeed/MaixPy
+
 ArduPy - Seeed  
 https://github.com/Seeed-Studio/ArduPy
 
