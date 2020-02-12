@@ -10,14 +10,6 @@ http://micropython.org/
 https://github.com/micropython/micropython  
 https://github.com/micropython/micropython/network <- sorta works, 100 most recently pushed forks.
 
-MicroPython - micro:bit  
-https://github.com/bbcmicrobit/micropython
-
-CircuitPython  
-https://circuitpython.org/  
-https://github.com/adafruit/circuitpython  
-https://circuitpython.readthedocs.io/en/4.x/README.html#differences-from-micropython
-
 MicroPython - openmv  
 https://github.com/openmv/micropython
 
@@ -38,9 +30,6 @@ MicroPython - Numworks
 https://github.com/numworks/epsilon  
 https://github.com/numworks/epsilon/tree/master/python/port
 
-CircuitPython - TI (called TI-Python)  
-https://blog.adafruit.com/2019/01/28/ti-planet-ti-python-import-sys-reveals-adafruit-circuitpython-on-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/
-
 Pycopy  
 https://github.com/pfalcon/pycopy  
 http://www.pagema.net/micropython-fork-wars.html  
@@ -53,6 +42,25 @@ ESP32 ones...
   
 loboris  
 https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo
+
+MicroPython - micro:bit  
+https://github.com/bbcmicrobit/micropython
+
+CircuitPython  
+https://circuitpython.org/  
+https://github.com/adafruit/circuitpython  
+https://circuitpython.readthedocs.io/en/4.x/README.html#differences-from-micropython
+
+CircuitPython - TI (called TI-Python)  
+https://blog.adafruit.com/2019/01/28/ti-planet-ti-python-import-sys-reveals-adafruit-circuitpython-on-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/
+
+CircuitPython - Gamebuino  
+https://gamebuino.com/
+
+ArduPy - Seeed  
+https://github.com/Seeed-Studio/ArduPy
+
+* * *
 
 Name, is it also called MicroPython?  
 Where it is located, is the source code available?  
