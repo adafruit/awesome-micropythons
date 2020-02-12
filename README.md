@@ -16,6 +16,9 @@ https://github.com/bbcmicrobit/micropython
 MicroPython - openmv  
 https://github.com/openmv/micropython
 
+RockySong - OpenMV port to i.MX RT1050/1060  
+https://github.com/RockySong/micropython-rocky
+
 MicroPython - PyCom  
 https://github.com/pycom/pycom-micropython-sigfox
 
