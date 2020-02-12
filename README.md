@@ -10,6 +10,9 @@ http://micropython.org/
 https://github.com/micropython/micropython  
 https://github.com/micropython/micropython/network <- sorta works, 100 most recently pushed forks.
 
+MicroPython - micro:bit  
+https://github.com/bbcmicrobit/micropython
+
 MicroPython - openmv  
 https://github.com/openmv/micropython
 
@@ -38,13 +41,13 @@ https://www.blog.pythonlibrary.org/2020/02/10/pydev-of-the-week-paul-sokolovsky/
 MicroPython - Microsemi, RISC-V (RV32 and RV64) architecture  
 https://content.riscv.org/wp-content/uploads/2017/12/RISC-V-Poster-Preview.pdf
 
+ArduPy - Seeed  
+https://github.com/Seeed-Studio/ArduPy
+
 ESP32 ones...  
   
 loboris  
 https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo
-
-MicroPython - micro:bit  
-https://github.com/bbcmicrobit/micropython
 
 CircuitPython  
 https://circuitpython.org/  
@@ -56,9 +59,6 @@ https://blog.adafruit.com/2019/01/28/ti-planet-ti-python-import-sys-reveals-adaf
 
 CircuitPython - Gamebuino  
 https://gamebuino.com/
-
-ArduPy - Seeed  
-https://github.com/Seeed-Studio/ArduPy
 
 * * *
 
