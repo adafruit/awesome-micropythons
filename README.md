@@ -8,7 +8,7 @@ please do issue/PRs or email me to get edits here: pt@adafruit.com
 * * *
 
 MicroPython  
-http://micropython.org/  
+https://micropython.org/  
 https://github.com/micropython/micropython  
 https://github.com/micropython/micropython/network <- sorta works, 100 most recently pushed forks.
 

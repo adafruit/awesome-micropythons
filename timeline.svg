@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<!-- Created with gnuclad 0.2.4 -->
+
+<svg
+  xmlns='http://www.w3.org/2000/svg'
+  xmlns:svg='http://www.w3.org/2000/svg'
+  xmlns:xlink='http://www.w3.org/1999/xlink'
+  xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape'
+  xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:cc='http://creativecommons.org/ns#'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  version='1.1'
+  width='3120'
+  height='542'
+>
+
+<title>MicroPython Timeline</title>
+
+<defs>
+
+  <linearGradient id='__yearline' x1='0' y1='0' x2='1' y2='0'>
+    <stop stop-color='#00316e' offset='0' stop-opacity='1' />
+    <stop stop-color='#2c72c7' offset='1' stop-opacity='1' />
+  </linearGradient>
+
+  <linearGradient id='__infobox_fill' x1='0' y1='0' x2='0' y2='1'>
+    <stop stop-color='#b9d5ff' offset='0' stop-opacity='1' />
+    <stop stop-color='#70b3f2' offset='1' stop-opacity='1' />
+  </linearGradient>
+  <linearGradient id='__infobox_stroke' x1='0' y1='0' x2='0' y2='1'>
+    <stop stop-color='#70b3f2' offset='0' stop-opacity='1' />
+    <stop stop-color='#b9d5ff' offset='1' stop-opacity='1' />
+  </linearGradient>
+  <filter id='__infobox_shadow' color-interpolation-filters='sRGB'>
+    <feGaussianBlur stdDeviation='5' />
+  </filter>
+
+  <linearGradient id='__domain_Python' x1='0' y1='0' x2='1' y2='0'>
+    <stop stop-color='#bf1238' offset='0' stop-opacity='0' />
+    <stop stop-color='#bf1238' offset='1' stop-opacity='0.06' />
+  </linearGradient>
+
+  <circle id='__connectors_start' cx='0' cy='0' r='4' stroke='none' />
+<rect id='__fadeout' height='1' width='6' y='-0.5' x='0'/>  <linearGradient id='__fadeout_Python' x1='0' y1='0' x2='6' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#bf1238' offset='0' stop-opacity='1' />
+    <stop stop-color='#bf1238' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Python' markerWidth='6' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_Python)' />
+  </marker>
+  <linearGradient id='__fadeout_Python__2' x1='0' y1='0' x2='6' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#5b860a' offset='0' stop-opacity='1' />
+    <stop stop-color='#5b860a' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_Python__2' markerWidth='6' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_Python__2)' />
+  </marker>
+
+<!-- BEGIN additional SVG images - definitions -->
+
+<!-- END additional SVG images - definitions -->
+
+</defs>
+
+<g inkscape:label='Background' inkscape:groupmode='layer' id='layer_background' >
+  <rect x='0' y='0' width='3120' height='542' rx='11' ry='11' fill='#fff' />
+</g>
+
+<g inkscape:label='Year Rulers' inkscape:groupmode='layer' id='layer_yearrulers' stroke-width='0' stroke='#f0f0f0'>
+  <line x1='10' y1='0' x2='10' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='18' y1='0' x2='18' y2='542' />
+    <line x1='26' y1='0' x2='26' y2='542' />
+    <line x1='35' y1='0' x2='35' y2='542' />
+    <line x1='43' y1='0' x2='43' y2='542' />
+    <line x1='51' y1='0' x2='51' y2='542' />
+    <line x1='60' y1='0' x2='60' y2='542' />
+    <line x1='68' y1='0' x2='68' y2='542' />
+    <line x1='76' y1='0' x2='76' y2='542' />
+    <line x1='85' y1='0' x2='85' y2='542' />
+    <line x1='93' y1='0' x2='93' y2='542' />
+    <line x1='101' y1='0' x2='101' y2='542' />
+  <line x1='110' y1='0' x2='110' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='118' y1='0' x2='118' y2='542' />
+    <line x1='126' y1='0' x2='126' y2='542' />
+    <line x1='135' y1='0' x2='135' y2='542' />
+    <line x1='143' y1='0' x2='143' y2='542' />
+    <line x1='151' y1='0' x2='151' y2='542' />
+    <line x1='160' y1='0' x2='160' y2='542' />
+    <line x1='168' y1='0' x2='168' y2='542' />
+    <line x1='176' y1='0' x2='176' y2='542' />
+    <line x1='185' y1='0' x2='185' y2='542' />
+    <line x1='193' y1='0' x2='193' y2='542' />
+    <line x1='201' y1='0' x2='201' y2='542' />
+  <line x1='210' y1='0' x2='210' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='218' y1='0' x2='218' y2='542' />
+    <line x1='226' y1='0' x2='226' y2='542' />
+    <line x1='235' y1='0' x2='235' y2='542' />
+    <line x1='243' y1='0' x2='243' y2='542' />
+    <line x1='251' y1='0' x2='251' y2='542' />
+    <line x1='260' y1='0' x2='260' y2='542' />
+    <line x1='268' y1='0' x2='268' y2='542' />
+    <line x1='276' y1='0' x2='276' y2='542' />
+    <line x1='285' y1='0' x2='285' y2='542' />
+    <line x1='293' y1='0' x2='293' y2='542' />
+    <line x1='301' y1='0' x2='301' y2='542' />
+  <line x1='310' y1='0' x2='310' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='318' y1='0' x2='318' y2='542' />
+    <line x1='326' y1='0' x2='326' y2='542' />
+    <line x1='335' y1='0' x2='335' y2='542' />
+    <line x1='343' y1='0' x2='343' y2='542' />
+    <line x1='351' y1='0' x2='351' y2='542' />
+    <line x1='360' y1='0' x2='360' y2='542' />
+    <line x1='368' y1='0' x2='368' y2='542' />
+    <line x1='376' y1='0' x2='376' y2='542' />
+    <line x1='385' y1='0' x2='385' y2='542' />
+    <line x1='393' y1='0' x2='393' y2='542' />
+    <line x1='401' y1='0' x2='401' y2='542' />
+  <line x1='410' y1='0' x2='410' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='418' y1='0' x2='418' y2='542' />
+    <line x1='426' y1='0' x2='426' y2='542' />
+    <line x1='435' y1='0' x2='435' y2='542' />
+    <line x1='443' y1='0' x2='443' y2='542' />
+    <line x1='451' y1='0' x2='451' y2='542' />
+    <line x1='460' y1='0' x2='460' y2='542' />
+    <line x1='468' y1='0' x2='468' y2='542' />
+    <line x1='476' y1='0' x2='476' y2='542' />
+    <line x1='485' y1='0' x2='485' y2='542' />
+    <line x1='493' y1='0' x2='493' y2='542' />
+    <line x1='501' y1='0' x2='501' y2='542' />
+  <line x1='510' y1='0' x2='510' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='518' y1='0' x2='518' y2='542' />
+    <line x1='526' y1='0' x2='526' y2='542' />
+    <line x1='535' y1='0' x2='535' y2='542' />
+    <line x1='543' y1='0' x2='543' y2='542' />
+    <line x1='551' y1='0' x2='551' y2='542' />
+    <line x1='560' y1='0' x2='560' y2='542' />
+    <line x1='568' y1='0' x2='568' y2='542' />
+    <line x1='576' y1='0' x2='576' y2='542' />
+    <line x1='585' y1='0' x2='585' y2='542' />
+    <line x1='593' y1='0' x2='593' y2='542' />
+    <line x1='601' y1='0' x2='601' y2='542' />
+  <line x1='610' y1='0' x2='610' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='618' y1='0' x2='618' y2='542' />
+    <line x1='626' y1='0' x2='626' y2='542' />
+    <line x1='635' y1='0' x2='635' y2='542' />
+    <line x1='643' y1='0' x2='643' y2='542' />
+    <line x1='651' y1='0' x2='651' y2='542' />
+    <line x1='660' y1='0' x2='660' y2='542' />
+    <line x1='668' y1='0' x2='668' y2='542' />
+    <line x1='676' y1='0' x2='676' y2='542' />
+    <line x1='685' y1='0' x2='685' y2='542' />
+    <line x1='693' y1='0' x2='693' y2='542' />
+    <line x1='701' y1='0' x2='701' y2='542' />
+  <line x1='710' y1='0' x2='710' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='718' y1='0' x2='718' y2='542' />
+    <line x1='726' y1='0' x2='726' y2='542' />
+    <line x1='735' y1='0' x2='735' y2='542' />
+    <line x1='743' y1='0' x2='743' y2='542' />
+    <line x1='751' y1='0' x2='751' y2='542' />
+    <line x1='760' y1='0' x2='760' y2='542' />
+    <line x1='768' y1='0' x2='768' y2='542' />
+    <line x1='776' y1='0' x2='776' y2='542' />
+    <line x1='785' y1='0' x2='785' y2='542' />
+    <line x1='793' y1='0' x2='793' y2='542' />
+    <line x1='801' y1='0' x2='801' y2='542' />
+  <line x1='810' y1='0' x2='810' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='818' y1='0' x2='818' y2='542' />
+    <line x1='826' y1='0' x2='826' y2='542' />
+    <line x1='835' y1='0' x2='835' y2='542' />
+    <line x1='843' y1='0' x2='843' y2='542' />
+    <line x1='851' y1='0' x2='851' y2='542' />
+    <line x1='860' y1='0' x2='860' y2='542' />
+    <line x1='868' y1='0' x2='868' y2='542' />
+    <line x1='876' y1='0' x2='876' y2='542' />
+    <line x1='885' y1='0' x2='885' y2='542' />
+    <line x1='893' y1='0' x2='893' y2='542' />
+    <line x1='901' y1='0' x2='901' y2='542' />
+  <line x1='910' y1='0' x2='910' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='918' y1='0' x2='918' y2='542' />
+    <line x1='926' y1='0' x2='926' y2='542' />
+    <line x1='935' y1='0' x2='935' y2='542' />
+    <line x1='943' y1='0' x2='943' y2='542' />
+    <line x1='951' y1='0' x2='951' y2='542' />
+    <line x1='960' y1='0' x2='960' y2='542' />
+    <line x1='968' y1='0' x2='968' y2='542' />
+    <line x1='976' y1='0' x2='976' y2='542' />
+    <line x1='985' y1='0' x2='985' y2='542' />
+    <line x1='993' y1='0' x2='993' y2='542' />
+    <line x1='1001' y1='0' x2='1001' y2='542' />
+  <line x1='1010' y1='0' x2='1010' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1018' y1='0' x2='1018' y2='542' />
+    <line x1='1026' y1='0' x2='1026' y2='542' />
+    <line x1='1035' y1='0' x2='1035' y2='542' />
+    <line x1='1043' y1='0' x2='1043' y2='542' />
+    <line x1='1051' y1='0' x2='1051' y2='542' />
+    <line x1='1060' y1='0' x2='1060' y2='542' />
+    <line x1='1068' y1='0' x2='1068' y2='542' />
+    <line x1='1076' y1='0' x2='1076' y2='542' />
+    <line x1='1085' y1='0' x2='1085' y2='542' />
+    <line x1='1093' y1='0' x2='1093' y2='542' />
+    <line x1='1101' y1='0' x2='1101' y2='542' />
+  <line x1='1110' y1='0' x2='1110' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1118' y1='0' x2='1118' y2='542' />
+    <line x1='1126' y1='0' x2='1126' y2='542' />
+    <line x1='1135' y1='0' x2='1135' y2='542' />
+    <line x1='1143' y1='0' x2='1143' y2='542' />
+    <line x1='1151' y1='0' x2='1151' y2='542' />
+    <line x1='1160' y1='0' x2='1160' y2='542' />
+    <line x1='1168' y1='0' x2='1168' y2='542' />
+    <line x1='1176' y1='0' x2='1176' y2='542' />
+    <line x1='1185' y1='0' x2='1185' y2='542' />
+    <line x1='1193' y1='0' x2='1193' y2='542' />
+    <line x1='1201' y1='0' x2='1201' y2='542' />
+  <line x1='1210' y1='0' x2='1210' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1218' y1='0' x2='1218' y2='542' />
+    <line x1='1226' y1='0' x2='1226' y2='542' />
+    <line x1='1235' y1='0' x2='1235' y2='542' />
+    <line x1='1243' y1='0' x2='1243' y2='542' />
+    <line x1='1251' y1='0' x2='1251' y2='542' />
+    <line x1='1260' y1='0' x2='1260' y2='542' />
+    <line x1='1268' y1='0' x2='1268' y2='542' />
+    <line x1='1276' y1='0' x2='1276' y2='542' />
+    <line x1='1285' y1='0' x2='1285' y2='542' />
+    <line x1='1293' y1='0' x2='1293' y2='542' />
+    <line x1='1301' y1='0' x2='1301' y2='542' />
+  <line x1='1310' y1='0' x2='1310' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1318' y1='0' x2='1318' y2='542' />
+    <line x1='1326' y1='0' x2='1326' y2='542' />
+    <line x1='1335' y1='0' x2='1335' y2='542' />
+    <line x1='1343' y1='0' x2='1343' y2='542' />
+    <line x1='1351' y1='0' x2='1351' y2='542' />
+    <line x1='1360' y1='0' x2='1360' y2='542' />
+    <line x1='1368' y1='0' x2='1368' y2='542' />
+    <line x1='1376' y1='0' x2='1376' y2='542' />
+    <line x1='1385' y1='0' x2='1385' y2='542' />
+    <line x1='1393' y1='0' x2='1393' y2='542' />
+    <line x1='1401' y1='0' x2='1401' y2='542' />
+  <line x1='1410' y1='0' x2='1410' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1418' y1='0' x2='1418' y2='542' />
+    <line x1='1426' y1='0' x2='1426' y2='542' />
+    <line x1='1435' y1='0' x2='1435' y2='542' />
+    <line x1='1443' y1='0' x2='1443' y2='542' />
+    <line x1='1451' y1='0' x2='1451' y2='542' />
+    <line x1='1460' y1='0' x2='1460' y2='542' />
+    <line x1='1468' y1='0' x2='1468' y2='542' />
+    <line x1='1476' y1='0' x2='1476' y2='542' />
+    <line x1='1485' y1='0' x2='1485' y2='542' />
+    <line x1='1493' y1='0' x2='1493' y2='542' />
+    <line x1='1501' y1='0' x2='1501' y2='542' />
+  <line x1='1510' y1='0' x2='1510' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1518' y1='0' x2='1518' y2='542' />
+    <line x1='1526' y1='0' x2='1526' y2='542' />
+    <line x1='1535' y1='0' x2='1535' y2='542' />
+    <line x1='1543' y1='0' x2='1543' y2='542' />
+    <line x1='1551' y1='0' x2='1551' y2='542' />
+    <line x1='1560' y1='0' x2='1560' y2='542' />
+    <line x1='1568' y1='0' x2='1568' y2='542' />
+    <line x1='1576' y1='0' x2='1576' y2='542' />
+    <line x1='1585' y1='0' x2='1585' y2='542' />
+    <line x1='1593' y1='0' x2='1593' y2='542' />
+    <line x1='1601' y1='0' x2='1601' y2='542' />
+  <line x1='1610' y1='0' x2='1610' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1618' y1='0' x2='1618' y2='542' />
+    <line x1='1626' y1='0' x2='1626' y2='542' />
+    <line x1='1635' y1='0' x2='1635' y2='542' />
+    <line x1='1643' y1='0' x2='1643' y2='542' />
+    <line x1='1651' y1='0' x2='1651' y2='542' />
+    <line x1='1660' y1='0' x2='1660' y2='542' />
+    <line x1='1668' y1='0' x2='1668' y2='542' />
+    <line x1='1676' y1='0' x2='1676' y2='542' />
+    <line x1='1685' y1='0' x2='1685' y2='542' />
+    <line x1='1693' y1='0' x2='1693' y2='542' />
+    <line x1='1701' y1='0' x2='1701' y2='542' />
+  <line x1='1710' y1='0' x2='1710' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1718' y1='0' x2='1718' y2='542' />
+    <line x1='1726' y1='0' x2='1726' y2='542' />
+    <line x1='1735' y1='0' x2='1735' y2='542' />
+    <line x1='1743' y1='0' x2='1743' y2='542' />
+    <line x1='1751' y1='0' x2='1751' y2='542' />
+    <line x1='1760' y1='0' x2='1760' y2='542' />
+    <line x1='1768' y1='0' x2='1768' y2='542' />
+    <line x1='1776' y1='0' x2='1776' y2='542' />
+    <line x1='1785' y1='0' x2='1785' y2='542' />
+    <line x1='1793' y1='0' x2='1793' y2='542' />
+    <line x1='1801' y1='0' x2='1801' y2='542' />
+  <line x1='1810' y1='0' x2='1810' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1818' y1='0' x2='1818' y2='542' />
+    <line x1='1826' y1='0' x2='1826' y2='542' />
+    <line x1='1835' y1='0' x2='1835' y2='542' />
+    <line x1='1843' y1='0' x2='1843' y2='542' />
+    <line x1='1851' y1='0' x2='1851' y2='542' />
+    <line x1='1860' y1='0' x2='1860' y2='542' />
+    <line x1='1868' y1='0' x2='1868' y2='542' />
+    <line x1='1876' y1='0' x2='1876' y2='542' />
+    <line x1='1885' y1='0' x2='1885' y2='542' />
+    <line x1='1893' y1='0' x2='1893' y2='542' />
+    <line x1='1901' y1='0' x2='1901' y2='542' />
+  <line x1='1910' y1='0' x2='1910' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1918' y1='0' x2='1918' y2='542' />
+    <line x1='1926' y1='0' x2='1926' y2='542' />
+    <line x1='1935' y1='0' x2='1935' y2='542' />
+    <line x1='1943' y1='0' x2='1943' y2='542' />
+    <line x1='1951' y1='0' x2='1951' y2='542' />
+    <line x1='1960' y1='0' x2='1960' y2='542' />
+    <line x1='1968' y1='0' x2='1968' y2='542' />
+    <line x1='1976' y1='0' x2='1976' y2='542' />
+    <line x1='1985' y1='0' x2='1985' y2='542' />
+    <line x1='1993' y1='0' x2='1993' y2='542' />
+    <line x1='2001' y1='0' x2='2001' y2='542' />
+  <line x1='2010' y1='0' x2='2010' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='2018' y1='0' x2='2018' y2='542' />
+    <line x1='2026' y1='0' x2='2026' y2='542' />
+    <line x1='2035' y1='0' x2='2035' y2='542' />
+    <line x1='2043' y1='0' x2='2043' y2='542' />
+    <line x1='2051' y1='0' x2='2051' y2='542' />
+    <line x1='2060' y1='0' x2='2060' y2='542' />
+    <line x1='2068' y1='0' x2='2068' y2='542' />
+    <line x1='2076' y1='0' x2='2076' y2='542' />
+    <line x1='2085' y1='0' x2='2085' y2='542' />
+    <line x1='2093' y1='0' x2='2093' y2='542' />
+    <line x1='2101' y1='0' x2='2101' y2='542' />
+  <line x1='2110' y1='0' x2='2110' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='2118' y1='0' x2='2118' y2='542' />
+    <line x1='2126' y1='0' x2='2126' y2='542' />
+    <line x1='2135' y1='0' x2='2135' y2='542' />
+    <line x1='2143' y1='0' x2='2143' y2='542' />
+    <line x1='2151' y1='0' x2='2151' y2='542' />
+    <line x1='2160' y1='0' x2='2160' y2='542' />
+    <line x1='2168' y1='0' x2='2168' y2='542' />
+    <line x1='2176' y1='0' x2='2176' y2='542' />
+    <line x1='2185' y1='0' x2='2185' y2='542' />
+    <line x1='2193' y1='0' x2='2193' y2='542' />
+    <line x1='2201' y1='0' x2='2201' y2='542' />
+  <line x1='2210' y1='0' x2='2210' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='2218' y1='0' x2='2218' y2='542' />
+    <line x1='2226' y1='0' x2='2226' y2='542' />
+    <line x1='2235' y1='0' x2='2235' y2='542' />
+    <line x1='2243' y1='0' x2='2243' y2='542' />
+    <line x1='2251' y1='0' x2='2251' y2='542' />
+    <line x1='2260' y1='0' x2='2260' y2='542' />
+    <line x1='2268' y1='0' x2='2268' y2='542' />
+    <line x1='2276' y1='0' x2='2276' y2='542' />
+    <line x1='2285' y1='0' x2='2285' y2='542' />
+    <line x1='2293' y1='0' x2='2293' y2='542' />
+    <line x1='2301' y1='0' x2='2301' y2='542' />
+  <line x1='2310' y1='0' x2='2310' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='2318' y1='0' x2='2318' y2='542' />
+    <line x1='2326' y1='0' x2='2326' y2='542' />
+    <line x1='2335' y1='0' x2='2335' y2='542' />
+    <line x1='2343' y1='0' x2='2343' y2='542' />
+    <line x1='2351' y1='0' x2='2351' y2='542' />
+    <line x1='2360' y1='0' x2='2360' y2='542' />
+    <line x1='2368' y1='0' x2='2368' y2='542' />
+    <line x1='2376' y1='0' x2='2376' y2='542' />
+    <line x1='2385' y1='0' x2='2385' y2='542' />
+    <line x1='2393' y1='0' x2='2393' y2='542' />
+    <line x1='2401' y1='0' x2='2401' y2='542' />
+  <line x1='2410' y1='0' x2='2410' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='2418' y1='0' x2='2418' y2='542' />
+    <line x1='2426' y1='0' x2='2426' y2='542' />
+    <line x1='2435' y1='0' x2='2435' y2='542' />
+    <line x1='2443' y1='0' x2='2443' y2='542' />
+    <line x1='2451' y1='0' x2='2451' y2='542' />
+    <line x1='2460' y1='0' x2='2460' y2='542' />
+    <line x1='2468' y1='0' x2='2468' y2='542' />
+    <line x1='2476' y1='0' x2='2476' y2='542' />
+    <line x1='2485' y1='0' x2='2485' y2='542' />
+    <line x1='2493' y1='0' x2='2493' y2='542' />
+    <line x1='2501' y1='0' x2='2501' y2='542' />
+  <line x1='2510' y1='0' x2='2510' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='2518' y1='0' x2='2518' y2='542' />
+    <line x1='2526' y1='0' x2='2526' y2='542' />
+    <line x1='2535' y1='0' x2='2535' y2='542' />
+    <line x1='2543' y1='0' x2='2543' y2='542' />
+    <line x1='2551' y1='0' x2='2551' y2='542' />
+    <line x1='2560' y1='0' x2='2560' y2='542' />
+    <line x1='2568' y1='0' x2='2568' y2='542' />
+    <line x1='2576' y1='0' x2='2576' y2='542' />
+    <line x1='2585' y1='0' x2='2585' y2='542' />
+    <line x1='2593' y1='0' x2='2593' y2='542' />
+    <line x1='2601' y1='0' x2='2601' y2='542' />
+  <line x1='2610' y1='0' x2='2610' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='2618' y1='0' x2='2618' y2='542' />
+    <line x1='2626' y1='0' x2='2626' y2='542' />
+    <line x1='2635' y1='0' x2='2635' y2='542' />
+    <line x1='2643' y1='0' x2='2643' y2='542' />
+    <line x1='2651' y1='0' x2='2651' y2='542' />
+    <line x1='2660' y1='0' x2='2660' y2='542' />
+    <line x1='2668' y1='0' x2='2668' y2='542' />
+    <line x1='2676' y1='0' x2='2676' y2='542' />
+    <line x1='2685' y1='0' x2='2685' y2='542' />
+    <line x1='2693' y1='0' x2='2693' y2='542' />
+    <line x1='2701' y1='0' x2='2701' y2='542' />
+  <line x1='2710' y1='0' x2='2710' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='2718' y1='0' x2='2718' y2='542' />
+    <line x1='2726' y1='0' x2='2726' y2='542' />
+    <line x1='2735' y1='0' x2='2735' y2='542' />
+    <line x1='2743' y1='0' x2='2743' y2='542' />
+    <line x1='2751' y1='0' x2='2751' y2='542' />
+    <line x1='2760' y1='0' x2='2760' y2='542' />
+    <line x1='2768' y1='0' x2='2768' y2='542' />
+    <line x1='2776' y1='0' x2='2776' y2='542' />
+    <line x1='2785' y1='0' x2='2785' y2='542' />
+    <line x1='2793' y1='0' x2='2793' y2='542' />
+    <line x1='2801' y1='0' x2='2801' y2='542' />
+  <line x1='2810' y1='0' x2='2810' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='2818' y1='0' x2='2818' y2='542' />
+    <line x1='2826' y1='0' x2='2826' y2='542' />
+    <line x1='2835' y1='0' x2='2835' y2='542' />
+    <line x1='2843' y1='0' x2='2843' y2='542' />
+    <line x1='2851' y1='0' x2='2851' y2='542' />
+    <line x1='2860' y1='0' x2='2860' y2='542' />
+    <line x1='2868' y1='0' x2='2868' y2='542' />
+    <line x1='2876' y1='0' x2='2876' y2='542' />
+    <line x1='2885' y1='0' x2='2885' y2='542' />
+    <line x1='2893' y1='0' x2='2893' y2='542' />
+    <line x1='2901' y1='0' x2='2901' y2='542' />
+  <line x1='2910' y1='0' x2='2910' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='2918' y1='0' x2='2918' y2='542' />
+    <line x1='2926' y1='0' x2='2926' y2='542' />
+    <line x1='2935' y1='0' x2='2935' y2='542' />
+    <line x1='2943' y1='0' x2='2943' y2='542' />
+    <line x1='2951' y1='0' x2='2951' y2='542' />
+    <line x1='2960' y1='0' x2='2960' y2='542' />
+    <line x1='2968' y1='0' x2='2968' y2='542' />
+    <line x1='2976' y1='0' x2='2976' y2='542' />
+    <line x1='2985' y1='0' x2='2985' y2='542' />
+    <line x1='2993' y1='0' x2='2993' y2='542' />
+    <line x1='3001' y1='0' x2='3001' y2='542' />
+  <line x1='3010' y1='0' x2='3010' y2='542' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='3018' y1='0' x2='3018' y2='542' />
+    <line x1='3026' y1='0' x2='3026' y2='542' />
+    <line x1='3035' y1='0' x2='3035' y2='542' />
+    <line x1='3043' y1='0' x2='3043' y2='542' />
+    <line x1='3051' y1='0' x2='3051' y2='542' />
+    <line x1='3060' y1='0' x2='3060' y2='542' />
+    <line x1='3068' y1='0' x2='3068' y2='542' />
+    <line x1='3076' y1='0' x2='3076' y2='542' />
+    <line x1='3085' y1='0' x2='3085' y2='542' />
+    <line x1='3093' y1='0' x2='3093' y2='542' />
+    <line x1='3101' y1='0' x2='3101' y2='542' />
+  <line x1='3110' y1='0' x2='3110' y2='542' stroke-width='2' stroke='#e1e1e1' />
+</g>
+
+<g inkscape:label='Domains' inkscape:groupmode='layer' id='layer_domains' >
+  <rect x='23' y='51' width='3087' height='88' rx='11' ry='11' fill='url(#__domain_Python)' />
+</g>
+
+<g inkscape:label='Connectors' inkscape:groupmode='layer' id='layer_connectors'
+style='opacity:0.6;' >
+</g>
+
+<g inkscape:label='Lines' inkscape:groupmode='layer' id='layer_lines'
+ style='fill:none;stroke-width:4;' >
+  <path id='__line_Python__3' d='M 1751 95 C 1788.5,95 1763.5,117 1801,117 L 1801 117 L 2921 117' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_Python__2' d='M 926 73 C 963.5,73 938.5,95 976,95 L 976 95 L 2910 95' stroke='#5b860a' style='stroke-width:4;' marker-end='url(#__stop_Python__2)' />
+  <path id='__line_Python' d='M 23 73 L 976 73' stroke='#bf1238' style='stroke-width:4;' marker-end='url(#__stop_Python)' />
+  <path id='__line_MicroPython__-__PyCom' d='M 2498 315 C 2597,315 2531,161 2630,161 L 2630 161 L 2921 161' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_TI__Python' d='M 2767 183 C 2804.5,183 2779.5,205 2817,205 L 2817 205 L 2921 205' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_CircuitPython' d='M 2543 315 C 2634.5,315 2573.5,183 2665,183 L 2665 183 L 2921 183' stroke='#be33ff' style='stroke-width:4;' />
+  <path id='__line_Iobris' d='M 2610 315 C 2685,315 2635,227 2710,227 L 2710 227 L 2921 227' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_MicroPython__-__XBee' d='M 2669 315 C 2733.5,315 2690.5,249 2755,249 L 2755 249 L 2921 249' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_ArduPy' d='M 2772 315 C 2824.5,315 2789.5,271 2842,271 L 2842 271 L 2921 271' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_MicroPython__-__openmv' d='M 2855 315 C 2892.5,315 2867.5,293 2905,293 L 2905 293 L 2921 293' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_Pycopy' d='M 2343 315 C 2343,315 2343,469 2343,469 L 2343 469 L 2921 469' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_MicroPython__-__Lego' d='M 2871 315 C 2908.5,315 2883.5,337 2921,337 L 2921 337 L 2921 337' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_MaixPy' d='M 2786 315 C 2838.5,315 2803.5,359 2856,359 L 2856 359 L 2921 359' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_MicroPython__-__Casio' d='M 2716 315 C 2780.5,315 2737.5,381 2802,381 L 2802 381 L 2921 381' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_MicroPython__-__micro:bit' d='M 2652 315 C 2727,315 2677,403 2752,403 L 2752 403 L 2921 403' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_MicroPython__-__Microsemi__RISCV' d='M 2598 315 C 2681.25,315 2625.75,425 2709,425 L 2709 425 L 2921 425' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_MicroPython__-__Numworks' d='M 2523 315 C 2614.5,315 2553.5,447 2645,447 L 2645 447 L 2921 447' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_MicroPython' d='M 2343 315 L 2921 315' stroke='#000' style='stroke-width:4;' />
+</g>
+
+<g inkscape:label='Dots' inkscape:groupmode='layer' id='layer_dots'
+ style='stroke:none;' >
+  <circle id='__dot_Python__3' cx='1801' cy='117' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_Python__2' cx='976' cy='95' r='7' fill='#5b860a' stroke='none' />
+  <circle id='__dot_Python' cx='23' cy='73' r='7' fill='#bf1238' stroke='none' />
+  <circle id='__dot_MicroPython__-__PyCom' cx='2630' cy='161' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_TI__Python' cx='2817' cy='205' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_CircuitPython' cx='2665' cy='183' r='7' fill='#be33ff' stroke='none' />
+  <circle id='__dot_Iobris' cx='2710' cy='227' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_MicroPython__-__XBee' cx='2755' cy='249' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_ArduPy' cx='2842' cy='271' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_MicroPython__-__openmv' cx='2905' cy='293' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_Pycopy' cx='2343' cy='469' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_MicroPython__-__Lego' cx='2921' cy='337' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_MaixPy' cx='2856' cy='359' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_MicroPython__-__Casio' cx='2802' cy='381' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_MicroPython__-__micro:bit' cx='2752' cy='403' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_MicroPython__-__Microsemi__RISCV' cx='2709' cy='425' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_MicroPython__-__Numworks' cx='2645' cy='447' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_MicroPython' cx='2343' cy='315' r='7' fill='#000' stroke='none' />
+</g>
+
+<g inkscape:label='Icons' inkscape:groupmode='layer' id='layer_icons'>
+</g>
+
+<g inkscape:label='Labels' inkscape:groupmode='layer' id='layer_labels' 
+ style='font-size:14px;stroke:none;fill:#000;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
+  <rect x='1806' y='100' width='59' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://www.python.org'><text x='1808' y='112'  >Python 3</text></a>
+  <rect x='981' y='78' width='59' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://www.python.org/'><text x='983' y='90'  >Python 2</text></a>
+  <rect x='28' y='56' width='46' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://www.python.org'><text x='30' y='68'  >Python</text></a>
+  <rect x='2635' y='144' width='144' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/pycom/pycom-micropython-sigfox'><text x='2637' y='156'  >MicroPython - PyCom</text></a>
+  <rect x='2822' y='188' width='62' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/adafruit/awesome-micropythons'><text x='2824' y='200'  >TI Python</text></a>
+  <rect x='2670' y='166' width='88' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://circuitpython.org'><text x='2672' y='178'  >CircuitPython</text></a>
+  <rect x='2715' y='210' width='36' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo'><text x='2717' y='222'  >Iobris</text></a>
+  <rect x='2760' y='232' width='133' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/digidotcom/xbee-micropython'><text x='2762' y='244'  >MicroPython - XBee</text></a>
+  <rect x='2847' y='254' width='48' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/Seeed-Studio/ArduPy'><text x='2849' y='266'  >ArduPy</text></a>
+  <rect x='2910' y='276' width='149' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/openmv/micropython'><text x='2912' y='288'  >MicroPython - openmv</text></a>
+  <rect x='2348' y='452' width='48' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/pfalcon/pycopy'><text x='2350' y='464'  >Pycopy</text></a>
+  <rect x='2926' y='320' width='130' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://circuitpython.org'><text x='2928' y='332'  >MicroPython - Lego</text></a>
+  <rect x='2861' y='342' width='48' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/sipeed/MaixPy'><text x='2863' y='354'  >MaixPy</text></a>
+  <rect x='2807' y='364' width='135' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://edu.casio.com/products/graphic/fxcg50/'><text x='2809' y='376'  >MicroPython - Casio</text></a>
+  <rect x='2757' y='386' width='153' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/bbcmicrobit/micropython'><text x='2759' y='398'  >MicroPython - micro:bit</text></a>
+  <rect x='2714' y='408' width='213' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://content.riscv.org/wp-content/uploads/2017/12/RISC-V-Poster-Preview.pdf'><text x='2716' y='420'  >MicroPython - Microsemi RISCV</text></a>
+  <rect x='2650' y='430' width='166' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/numworks/epsilon'><text x='2652' y='442'  >MicroPython - Numworks</text></a>
+  <rect x='2348' y='298' width='82' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://micropython.org/'><text x='2350' y='310'  >MicroPython</text></a>
+</g>
+
+<g inkscape:label='Yearlines' inkscape:groupmode='layer' id='layer_yearlines' 
+ style='stroke:none;fill:url(#__yearline);' >
+  <rect x='0' y='0' rx='5' ry='5' width='3120' height='40' />
+  <rect x='0' y='502' rx='5' ry='5' width='3120' height='40' />
+  <g style='font-size:22px;stroke:none;fill:#fff;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;text-anchor:middle;' >
+    <text x='60' y='28'><tspan>1991</tspan></text>
+    <text x='60' y='530'><tspan>1991</tspan></text>
+    <text x='160' y='28'><tspan>1992</tspan></text>
+    <text x='160' y='530'><tspan>1992</tspan></text>
+    <text x='260' y='28'><tspan>1993</tspan></text>
+    <text x='260' y='530'><tspan>1993</tspan></text>
+    <text x='360' y='28'><tspan>1994</tspan></text>
+    <text x='360' y='530'><tspan>1994</tspan></text>
+    <text x='460' y='28'><tspan>1995</tspan></text>
+    <text x='460' y='530'><tspan>1995</tspan></text>
+    <text x='560' y='28'><tspan>1996</tspan></text>
+    <text x='560' y='530'><tspan>1996</tspan></text>
+    <text x='660' y='28'><tspan>1997</tspan></text>
+    <text x='660' y='530'><tspan>1997</tspan></text>
+    <text x='760' y='28'><tspan>1998</tspan></text>
+    <text x='760' y='530'><tspan>1998</tspan></text>
+    <text x='860' y='28'><tspan>1999</tspan></text>
+    <text x='860' y='530'><tspan>1999</tspan></text>
+    <text x='960' y='28'><tspan>2000</tspan></text>
+    <text x='960' y='530'><tspan>2000</tspan></text>
+    <text x='1060' y='28'><tspan>2001</tspan></text>
+    <text x='1060' y='530'><tspan>2001</tspan></text>
+    <text x='1160' y='28'><tspan>2002</tspan></text>
+    <text x='1160' y='530'><tspan>2002</tspan></text>
+    <text x='1260' y='28'><tspan>2003</tspan></text>
+    <text x='1260' y='530'><tspan>2003</tspan></text>
+    <text x='1360' y='28'><tspan>2004</tspan></text>
+    <text x='1360' y='530'><tspan>2004</tspan></text>
+    <text x='1460' y='28'><tspan>2005</tspan></text>
+    <text x='1460' y='530'><tspan>2005</tspan></text>
+    <text x='1560' y='28'><tspan>2006</tspan></text>
+    <text x='1560' y='530'><tspan>2006</tspan></text>
+    <text x='1660' y='28'><tspan>2007</tspan></text>
+    <text x='1660' y='530'><tspan>2007</tspan></text>
+    <text x='1760' y='28'><tspan>2008</tspan></text>
+    <text x='1760' y='530'><tspan>2008</tspan></text>
+    <text x='1860' y='28'><tspan>2009</tspan></text>
+    <text x='1860' y='530'><tspan>2009</tspan></text>
+    <text x='1960' y='28'><tspan>2010</tspan></text>
+    <text x='1960' y='530'><tspan>2010</tspan></text>
+    <text x='2060' y='28'><tspan>2011</tspan></text>
+    <text x='2060' y='530'><tspan>2011</tspan></text>
+    <text x='2160' y='28'><tspan>2012</tspan></text>
+    <text x='2160' y='530'><tspan>2012</tspan></text>
+    <text x='2260' y='28'><tspan>2013</tspan></text>
+    <text x='2260' y='530'><tspan>2013</tspan></text>
+    <text x='2360' y='28'><tspan>2014</tspan></text>
+    <text x='2360' y='530'><tspan>2014</tspan></text>
+    <text x='2460' y='28'><tspan>2015</tspan></text>
+    <text x='2460' y='530'><tspan>2015</tspan></text>
+    <text x='2560' y='28'><tspan>2016</tspan></text>
+    <text x='2560' y='530'><tspan>2016</tspan></text>
+    <text x='2660' y='28'><tspan>2017</tspan></text>
+    <text x='2660' y='530'><tspan>2017</tspan></text>
+    <text x='2760' y='28'><tspan>2018</tspan></text>
+    <text x='2760' y='530'><tspan>2018</tspan></text>
+    <text x='2860' y='28'><tspan>2019</tspan></text>
+    <text x='2860' y='530'><tspan>2019</tspan></text>
+    <text x='2960' y='28'><tspan>2020</tspan></text>
+    <text x='2960' y='530'><tspan>2020</tspan></text>
+    <text x='3060' y='28'><tspan>2021</tspan></text>
+    <text x='3060' y='530'><tspan>2021</tspan></text>
+  </g>
+</g>
+
+<g inkscape:label='Infobox' inkscape:groupmode='layer' id='layer_infobox'
+ style='stroke:none;fill:#000;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
+  <rect x='30' y='90' width='610' height='190' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
+  <rect x='30' y='90' width='610' height='190' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
+  <text x='41' y='128'><tspan style='font-size:32px;font-weight:bold;'>MicroPython Timeline</tspan></text>
+  <text x='41' y='151'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 20.02</tspan></tspan></text>
+  <text x='41' y='171'><tspan style='font-size:16px;'></tspan></text>
+  <text x='41' y='191'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>https://github.com/adafruit/awesome-micropythons</tspan></tspan></text>
+  <text x='41' y='211'><tspan style='font-size:16px;'>Published under the GNU Free Documentation License</tspan></text>
+</g>
+
+<!-- BEGIN additional images -->
+
+<g inkscape:label='Included PNG Images' inkscape:groupmode='layer' id='layer_included_png'>
+</g>
+
+<g inkscape:label='Included SVG Images' inkscape:groupmode='layer' id='layer_included_svg'>
+</g>
+
+<!-- END additional images -->
+
+</svg>
