@@ -30,6 +30,10 @@ https://education.lego.com/en-us/support/mindstorms-ev3/python-for-ev3
 MicroPython - Xbee  
 https://github.com/digidotcom/xbee-micropython
 
+MicroPython - Micropython port for the Silcon Labs EFM32  
+https://trmm.net/Ikea  
+https://github.com/osresearch/micropython/tree/efm32/ports/efm32  
+
 MicroPython - Casio  
 https://edu.casio.com/products/graphic/fxcg50/  
 https://blog.adafruit.com/2018/12/06/python-snakes-its-way-to-the-casio-graphing-fx-cg50-prizm-calculator-casioeducate-casiojapan-micropython-micropython/
