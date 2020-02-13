@@ -37,6 +37,10 @@ MicroPython - Micropython port for the Silcon Labs EFM32
 https://trmm.net/Ikea  
 https://github.com/osresearch/micropython/tree/efm32/ports/efm32  
 
+MicroPython - RT-Thread port with an excellent MicroPython IDE  
+https://github.com/RT-Thread-packages/micropython  
+https://marketplace.visualstudio.com/items?itemName=RT-Thread.rt-thread-micropython
+
 MicroPython - Casio  
 https://edu.casio.com/products/graphic/fxcg50/  
 https://blog.adafruit.com/2018/12/06/python-snakes-its-way-to-the-casio-graphing-fx-cg50-prizm-calculator-casioeducate-casiojapan-micropython-micropython/
@@ -74,10 +78,6 @@ https://blog.adafruit.com/2019/01/28/ti-planet-ti-python-import-sys-reveals-adaf
 
 CircuitPython - Gamebuino  
 https://gamebuino.com/
-
-MicroPython - RT-Thread port with an excellent MicroPython IDE  
-https://github.com/RT-Thread-packages/micropython  
-https://marketplace.visualstudio.com/items?itemName=RT-Thread.rt-thread-micropython
 
 * * *
 
