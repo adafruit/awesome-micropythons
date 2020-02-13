@@ -6,7 +6,7 @@ The start of a community made list of MicroPython forks, please do issue/PRs or 
 * * *
 
 MicroPython  
-http://micropython.org/  
+https://micropython.org/  
 https://github.com/micropython/micropython  
 https://github.com/micropython/micropython/network <- sorta works, 100 most recently pushed forks.
 
