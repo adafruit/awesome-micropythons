@@ -2,7 +2,9 @@
 
 [![MicroPython forks](./assets/micropython.jpg)](https://github.com/adafruit/awesome-micropythons)
 
-The start of a community made list of MicroPython forks, please do issue/PRs or email me to get edits here: pt@adafruit.com  
+The start of a community made list of MicroPython forks, the goal of this is **not** to encourage forks, it's a list that has all the forks, for what platforms, last updates, and if they are open-source.
+
+please do issue/PRs or email me to get edits here: pt@adafruit.com  
 * * *
 
 MicroPython  
