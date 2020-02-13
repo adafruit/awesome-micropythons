@@ -69,6 +69,10 @@ https://blog.adafruit.com/2019/01/28/ti-planet-ti-python-import-sys-reveals-adaf
 CircuitPython - Gamebuino  
 https://gamebuino.com/
 
+MicroPython - RT-Thread port with an excellent MicroPython IDE  
+https://github.com/RT-Thread-packages/micropython  
+https://marketplace.visualstudio.com/items?itemName=RT-Thread.rt-thread-micropython
+
 * * *
 
 Name, is it also called MicroPython?  
