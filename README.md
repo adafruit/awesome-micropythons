@@ -27,6 +27,9 @@ https://github.com/pycom/pycom-micropython-sigfox
 MicroPython - LEGO  
 https://education.lego.com/en-us/support/mindstorms-ev3/python-for-ev3
 
+MicroPython - Fomu  
+https://github.com/xobs/micropython  
+
 MicroPython - Xbee  
 https://github.com/digidotcom/xbee-micropython
 
