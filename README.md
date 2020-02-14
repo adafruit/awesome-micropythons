@@ -56,6 +56,7 @@ https://github.com/numworks/epsilon/tree/master/python/port
 Pycopy  
 https://github.com/pfalcon/pycopy  
 http://www.pagema.net/micropython-fork-wars.html  
+https://theiotmagazine.com/the-politics-of-dancing-with-micropython-9482dc2b4aaa  
 https://www.blog.pythonlibrary.org/2020/02/10/pydev-of-the-week-paul-sokolovsky/
 
 MicroPython - Microsemi, RISC-V (RV32 and RV64) architecture  
