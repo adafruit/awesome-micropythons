@@ -83,6 +83,7 @@ https://gamebuino.com/
 * * *
 
 Name, is it also called MicroPython?  
+Date it was started and/or forked/ported?  
 Where it is located, is the source code available?  
 What chip(s)/platform(s) are supported?  
 Who are the authors/maintainers?  
