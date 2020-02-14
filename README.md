@@ -25,6 +25,9 @@ https://github.com/RockySong/micropython-rocky
 MicroPython - PyCom  
 https://github.com/pycom/pycom-micropython-sigfox
 
+MicroPython - Raspberry Pi, MicroPython on bare metal Raspberry Pi Zero / Zero W / 2  
+https://github.com/boochow/micropython-raspberrypi
+
 MicroPython - LEGO  
 https://education.lego.com/en-us/support/mindstorms-ev3/python-for-ev3
 
