@@ -2,6 +2,8 @@
 
 [![MicroPython forks](./assets/micropython.jpg)](https://github.com/adafruit/awesome-micropythons)
 
+[![MicroPython forks](./timeline/timeline.svg)](https://github.com/adafruit/awesome-micropythons)
+
 The start of a community made list of MicroPython forks & ports, the goal of this is **not** to encourage forks, it's a list that has all the forks & ports, for what platforms, latest updates, and if they are open-source.
 
 please do issue/PRs or email me to get edits here: pt@adafruit.com  
