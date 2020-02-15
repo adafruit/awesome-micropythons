@@ -505,7 +505,7 @@ style='opacity:0.6;' >
   <path id='__line_Python__2' d='M 926 73 C 963.5,73 938.5,95 976,95 L 976 95 L 2910 95' stroke='#5b860a' style='stroke-width:4;' marker-end='url(#__stop_Python__2)' />
   <path id='__line_Python' d='M 23 73 L 976 73' stroke='#bf1238' style='stroke-width:4;' marker-end='url(#__stop_Python)' />
   <path id='__line_MicroPython__-__PyCom' d='M 2480 359 C 2592.5,359 2517.5,161 2630,161 L 2630 161 L 2921 161' stroke='#000' style='stroke-width:4;' />
-  <path id='__line_CircuitPython__-__Gamebuino' d='M 2871 205 C 2908.5,205 2883.5,183 2921,183 L 2921 183 L 2921 183' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_CircuitPython__-__Gamebuino' d='M 2785 205 C 2822.5,205 2797.5,183 2835,183 L 2835 183 L 2921 183' stroke='#000' style='stroke-width:4;' />
   <path id='__line_TI__Python' d='M 2767 205 C 2804.5,205 2779.5,227 2817,227 L 2817 227 L 2921 227' stroke='#000' style='stroke-width:4;' />
   <path id='__line_CircuitPython' d='M 2533 359 C 2632,359 2566,205 2665,205 L 2665 205 L 2921 205' stroke='#be33ff' style='stroke-width:4;' />
   <path id='__line_Pycopy' d='M 2591 359 C 2674.25,359 2618.75,249 2702,249 L 2702 249 L 2921 249' stroke='#000' style='stroke-width:4;' />
@@ -531,7 +531,7 @@ style='opacity:0.6;' >
   <circle id='__dot_Python__2' cx='976' cy='95' r='7' fill='#5b860a' stroke='none' />
   <circle id='__dot_Python' cx='23' cy='73' r='7' fill='#bf1238' stroke='none' />
   <circle id='__dot_MicroPython__-__PyCom' cx='2630' cy='161' r='7' fill='#000' stroke='none' />
-  <circle id='__dot_CircuitPython__-__Gamebuino' cx='2921' cy='183' r='7' fill='#000' stroke='none' />
+  <circle id='__dot_CircuitPython__-__Gamebuino' cx='2835' cy='183' r='7' fill='#000' stroke='none' />
   <circle id='__dot_TI__Python' cx='2817' cy='227' r='7' fill='#000' stroke='none' />
   <circle id='__dot_CircuitPython' cx='2665' cy='205' r='7' fill='#be33ff' stroke='none' />
   <circle id='__dot_Pycopy' cx='2702' cy='249' r='7' fill='#000' stroke='none' />
@@ -957,8 +957,8 @@ style='opacity:0.6;' >
   <a xlink:href='https://www.python.org'><text x='30' y='68'  >Python</text></a>
   <rect x='2635' y='144' width='144' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href='https://github.com/pycom/pycom-micropython-sigfox'><text x='2637' y='156'  >MicroPython - PyCom</text></a>
-  <rect x='2926' y='166' width='179' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
-  <a xlink:href='https://github.com/adafruit/awesome-micropythons'><text x='2928' y='178'  >CircuitPython - Gamebuino</text></a>
+  <rect x='2840' y='166' width='179' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+  <a xlink:href='https://github.com/adafruit/awesome-micropythons'><text x='2842' y='178'  >CircuitPython - Gamebuino</text></a>
   <rect x='2822' y='210' width='62' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href='https://github.com/adafruit/awesome-micropythons'><text x='2824' y='222'  >TI Python</text></a>
   <rect x='2670' y='188' width='88' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />

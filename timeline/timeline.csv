@@ -43,7 +43,7 @@
 "N","Iobris","#000","MicroPython","2018.01.03",,,"https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo",,,,,,,,,
 "N","CircuitPython","#be33ff","MicroPython","2017.7.19",,"","https://circuitpython.org",,,,,,,,,
 "N","TI Python","#000","CircuitPython","2019.01.28",,,"https://github.com/adafruit/awesome-micropythons",,,,,,,,,
-"N","CircuitPython - Gamebuino","#000","CircuitPython","2020.02.14",,,"https://github.com/adafruit/awesome-micropythons",,,,,,,,,
+"N","CircuitPython - Gamebuino","#000","CircuitPython","2019.04",,,"https://github.com/adafruit/awesome-micropythons",,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "#","Connectors",,,,,,,,,,,,,,,
 "#","Leaving 'To When' empty will result in using 'From When' as this value",,,,,,,,,,,,,,,
