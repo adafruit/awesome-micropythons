@@ -84,6 +84,12 @@ https://blog.adafruit.com/2019/01/28/ti-planet-ti-python-import-sys-reveals-adaf
 CircuitPython - Gamebuino  
 https://gamebuino.com/
 
+## Merged or Discontinued forks & ports
+
+MicroPython WASM - For running MicroPython in a web browser. Merged into MicroPython
+https://github.com/rafi16jan/micropython-wasm
+
+
 * * *
 
 Name, is it also called MicroPython?  
