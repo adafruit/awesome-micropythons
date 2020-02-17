@@ -2,6 +2,8 @@
 
 [![MicroPython forks](./assets/micropython.jpg)](https://github.com/adafruit/awesome-micropythons)
 
+[![MicroPython forks](./timeline/timeline.svg)](https://github.com/adafruit/awesome-micropythons)
+
 The start of a community made list of MicroPython forks & ports, the goal of this is **not** to encourage forks, it's a list that has all the forks & ports, for what platforms, latest updates, and if they are open-source.
 
 please do issue/PRs or email me to get edits here: pt@adafruit.com  
@@ -74,8 +76,6 @@ https://github.com/sipeed/MaixPy
 ArduPy - Seeed  
 https://github.com/Seeed-Studio/ArduPy
 
-ESP32 ones...  
-  
 Loboris  
 The "Lobo fork" was written by the prolific Boris Lovosevic and targetted only the Espressif ESP32 microcontroller. Originally forked to add PSRAM support to the mainline ESP32 port, Boris rapidly added many other desirable features including a powerful display module, SSH, Telnet and FTP integration, improved PWM and *much* more. Unfortunately it appears to be largely abandoned with no updates since 2018. Some of the features have been ported upstream to the mainline ESP32 port, an effort that continues.  
 https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo
@@ -90,6 +90,14 @@ https://blog.adafruit.com/2019/01/28/ti-planet-ti-python-import-sys-reveals-adaf
 
 CircuitPython - Gamebuino  
 https://gamebuino.com/
+
+* * *
+
+## Merged or Discontinued forks & ports
+
+MicroPython WASM - For running MicroPython in a web browser. Merged into MicroPython
+https://github.com/rafi16jan/micropython-wasm
+
 
 * * *
 
