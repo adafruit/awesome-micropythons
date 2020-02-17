@@ -16,15 +16,19 @@ https://github.com/micropython/micropython
 https://github.com/micropython/micropython/network <- sorta works, 100 most recently pushed forks.
 
 MicroPython - micro:bit  
+MicroPython for the micro:bit is an early port of MicroPython and is quite different to most ports due to the limited resources of the micro:bit (in particular the 16KB RAM of the Nordic nRF51822). The age of the fork and the tight resource constraints means that compromises have been made in the implementation of MicroPython for this platform so some API's are not as full-featured as on other ports.  
 https://github.com/bbcmicrobit/micropython
 
-MicroPython - openmv  
+MicroPython - OpenMV  
+The OpenMV project aims to create low-cost, Python-powered machine vision hardware. The OpenMV MicroPython fork stays close to mainline MicroPython but adds many computer vision algorithms, notably many from the OpenCV project. OpenMV is based on the powerful STM32 F7 and H7 microcontrollers.  
 https://github.com/openmv/micropython
 
-RockySong - OpenMV port to i.MX RT1050/1060  
+RockySong - OpenMV port to i.MX RT1050/1060.  
+A port of MicroPython to the i.MX RT family of micros. Presumably based on OpenMV rather than MicroPython to take advantage of the serious processing power that the RT10x0 range can provide for computer vision algortihms.  
 https://github.com/RockySong/micropython-rocky
 
 MicroPython - PyCom  
+PyCom have built a product line around the Espressif ESP32 and MicroPython. More recently they've also introduced cloud-based features to their product line to perform tasks such as remote firmware deployment. They've also integrated various radios include Sigfox, LoRa and cellular and each of them are packaged to be easily accessible from MicroPython. Uniquely amongst all other forks, PyCom have chosen to apply a different software license - GPL. A controversial decision in the MicroPython community since code written for PyCom cannot be shared upstream.  
 https://github.com/pycom/pycom-micropython-sigfox
 
 MicroPython - Raspberry Pi, MicroPython on bare metal Raspberry Pi Zero / Zero W / 2  
@@ -34,6 +38,7 @@ MicroPython - LEGO
 https://education.lego.com/en-us/support/mindstorms-ev3/python-for-ev3
 
 MicroPython - Fomu  
+The Fomu is a remarkable device that squeezes an FPGA into a device that can fit *inside* your USB port. This variant of MicroPython is designed to run on a RISC-V softcore running on the FPGA.  
 https://github.com/xobs/micropython  
 
 MicroPython - Xbee  
@@ -65,12 +70,14 @@ MicroPython - Microsemi, RISC-V (RV32 and RV64) architecture
 https://content.riscv.org/wp-content/uploads/2017/12/RISC-V-Poster-Preview.pdf
 
 MaixPy - Sipeed  
+The Kendryte K210 is an interesting RISC-V microcontroller; powerful, feature-rich and affordable. Sipeed make development boards that employ the K210 and they created and support a rich fork of MicroPython for their boards. Further, M5Stack also use the K210 for some development boards and Sipeed package MicroPython for these boards too.  
 https://github.com/sipeed/MaixPy
 
 ArduPy - Seeed  
 https://github.com/Seeed-Studio/ArduPy
 
-loboris - ESP32  
+Loboris  
+The "Lobo fork" was written by the prolific Boris Lovosevic and targetted only the Espressif ESP32 microcontroller. Originally forked to add PSRAM support to the mainline ESP32 port, Boris rapidly added many other desirable features including a powerful display module, SSH, Telnet and FTP integration, improved PWM and *much* more. Unfortunately it appears to be largely abandoned with no updates since 2018. Some of the features have been ported upstream to the mainline ESP32 port, an effort that continues.  
 https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo
 
 CircuitPython  
