@@ -70,9 +70,7 @@ https://github.com/sipeed/MaixPy
 ArduPy - Seeed  
 https://github.com/Seeed-Studio/ArduPy
 
-ESP32 ones...  
-  
-loboris  
+loboris - ESP32  
 https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo
 
 CircuitPython  
@@ -85,6 +83,8 @@ https://blog.adafruit.com/2019/01/28/ti-planet-ti-python-import-sys-reveals-adaf
 
 CircuitPython - Gamebuino  
 https://gamebuino.com/
+
+* * *
 
 ## Merged or Discontinued forks & ports
 
