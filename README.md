@@ -1,6 +1,6 @@
 ## The many forks & ports of MicroPython
 
-[![MicroPython forks](./assets/micropython.jpg)](https://github.com/adafruit/awesome-micropythons)
+[![MicroPython forks](./assets/micropython_fork_art.png)](https://github.com/adafruit/awesome-micropythons)
 
 [![MicroPython forks](./timeline/timeline.svg)](https://github.com/adafruit/awesome-micropythons)
 
